@@ -1,0 +1,57 @@
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\LV Metrics Parser.exe
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\LV Metrics Parser.deps.json
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\LV Metrics Parser.runtimeconfig.json
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\LV Metrics Parser.runtimeconfig.dev.json
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\LV Metrics Parser.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\LV Metrics Parser.pdb
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\obj\Debug\netcoreapp3.1\LV Metrics Parser.csprojAssemblyReference.cache
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\obj\Debug\netcoreapp3.1\LV Metrics Parser.csproj.GenerateResource.cache
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\obj\Debug\netcoreapp3.1\LV Metrics Parser.AssemblyInfoInputs.cache
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\obj\Debug\netcoreapp3.1\LV Metrics Parser.AssemblyInfo.cs
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\obj\Debug\netcoreapp3.1\LV Metrics Parser.csproj.CoreCompileInputs.cache
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\obj\Debug\netcoreapp3.1\LV Metrics Parser.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\obj\Debug\netcoreapp3.1\LV Metrics Parser.pdb
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\obj\Debug\netcoreapp3.1\LV Metrics Parser.genruntimeconfig.cache
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\obj\Debug\netcoreapp3.1\LV Metrics Parser.csproj.CopyComplete
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\obj\Debug\netcoreapp3.1\LV_Metrics_Parser.ParseByUsageForm.resources
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\obj\Debug\netcoreapp3.1\LV_Metrics_Parser.MainMenu.resources
+C:\Users\Ilias\Desktop\VS_Workspace\LV Metrics Parser\obj\Debug\netcoreapp3.1\LV_Metrics_Parser.ParseByTimologioForm.resources
